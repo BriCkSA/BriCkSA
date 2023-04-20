@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building my online Portfolio**
 
-- 🌱 I’m currently learning **Angular, Ionic, ASP.NET.**
+- 🌱 I’m currently learning **Angular, Ionic, ASP.NET.,Flutter**
 
 - 👨‍💻 All of my projects are available at, Still a working Progress
 
